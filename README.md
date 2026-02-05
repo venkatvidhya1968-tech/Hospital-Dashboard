@@ -13,3 +13,8 @@ Tools & Technologies Used:
 - Excel / CSV (Data Source)
 
 This dashboard helps hospital administrators make informed operational decisions.
+
+Project Files:
+- Hospital Dashboard Report (PDF)
+- Power BI Dashboard Screenshots (Charts)
+- Sample Dataset used for analysis
